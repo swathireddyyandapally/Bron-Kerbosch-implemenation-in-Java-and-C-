@@ -1,0 +1,6 @@
+c:\users\syandapally\documents\visual studio 2013\Projects\MaximalCliques\MaximalCliques\bin\Debug\MaximalCliques.exe.config
+c:\users\syandapally\documents\visual studio 2013\Projects\MaximalCliques\MaximalCliques\obj\Debug\MaximalCliques.csprojResolveAssemblyReference.cache
+c:\users\syandapally\documents\visual studio 2013\Projects\MaximalCliques\MaximalCliques\bin\Debug\MaximalCliques.exe
+c:\users\syandapally\documents\visual studio 2013\Projects\MaximalCliques\MaximalCliques\bin\Debug\MaximalCliques.pdb
+c:\users\syandapally\documents\visual studio 2013\Projects\MaximalCliques\MaximalCliques\obj\Debug\MaximalCliques.exe
+c:\users\syandapally\documents\visual studio 2013\Projects\MaximalCliques\MaximalCliques\obj\Debug\MaximalCliques.pdb
